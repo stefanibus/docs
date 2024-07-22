@@ -1,4 +1,4 @@
----
+)---
 title: Keyboard shortcuts
 description: A “keyboard shortcut” or “keybinding” is combination of keys on your keyboard which allows you to perform  common actions such as saving a file, modifying the view, or copying a line of code. In the StackBlitz editor this set of shortcuts is predefined and, currently, non-customizable.
 og_image: keyboard-shortcuts.png
@@ -24,7 +24,7 @@ Choose your platform to see the full list of available shortcuts: [Windows](#win
 | `Ctrl` `Shift` `F`                            | Show Find In Files                          |
 | `Ctrl` `,`                                    | Show Settings                               |
 | `F1`                                          | Show All Commands                           |
-| `Ctrl` `K` + `Ctrl` `0`                       | Fold All                                    |
+| `Ctrl` `K` + `Ctrl` `0`                       | Fold All (do not use Num-Block)             |
 | `Ctrl` `K` + `Ctrl` `J`                       | Unfold All                                  |
 | `Ctrl` `K` + `Ctrl` `/`                       | Fold All Block Comments                     |
 | `Ctrl` `K` + `Ctrl` `1`                       | Fold Level 1                                |
